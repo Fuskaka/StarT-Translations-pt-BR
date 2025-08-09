@@ -1,15 +1,15 @@
 {
-    "block.xycraft_world:aluminum_storage": "Alumino-Calcite Smooth Block",
-    "block.xycraft_world:aluminum_bricks_cloud": "Alumino-Calcite Bricks",
-    "block.xycraft_world:aluminum_bricks_cloud_blue": "Blue Alumino-Calcite Bricks",
-    "block.xycraft_world:aluminum_bricks_cloud_red": "Red Alumino-Calcite Bricks",
-    "block.xycraft_world:aluminum_bricks_cloud_green": "Green Alumino-Calcite Bricks",
-    "block.xycraft_world:aluminum_bricks_cloud_light": "Light Alumino-Calcite Bricks",
-    "block.xycraft_world:aluminum_bricks_cloud_dark": "Dark Alumino-Calcite Bricks",
-    "block.xycraft_world:aluminum_tiles_cloud": "Alumino-Calcite Tiles",
-    "block.xycraft_world:aluminum_tiles_cloud_blue": "Blue Alumino-Calcite Tiles",
-    "block.xycraft_world:aluminum_tiles_cloud_red": "Red Alumino-Calcite Tiles",
-    "block.xycraft_world:aluminum_tiles_cloud_green": "Green Alumino-Calcite Tiles",
-    "block.xycraft_world:aluminum_tiles_cloud_light": "Light Alumino-Calcite Tiles",
-    "block.xycraft_world:aluminum_tiles_cloud_dark": "Dark Alumino-Calcite Tiles"
+    "block.xycraft_world:aluminum_storage": "Block Liso de Alumino-Calcita",
+    "block.xycraft_world:aluminum_bricks_cloud": "Tijolos de Alumino-Calcita",
+    "block.xycraft_world:aluminum_bricks_cloud_blue": "Tijolos Azuis de Alumino-Calcita",
+    "block.xycraft_world:aluminum_bricks_cloud_red": "Tijolos Vermelhos de Alumino-Calcita",
+    "block.xycraft_world:aluminum_bricks_cloud_green": "Tijolos Verdes de Alumino-Calcita",
+    "block.xycraft_world:aluminum_bricks_cloud_light": "Tijolos Claros de Alumino-Calcita",
+    "block.xycraft_world:aluminum_bricks_cloud_dark": "Tijolos Escuros de Alumino-Calcita",
+    "block.xycraft_world:aluminum_tiles_cloud": "Lajotas de Alumino-Calcita",
+    "block.xycraft_world:aluminum_tiles_cloud_blue": "Lajotas Azuis de Alumino-Calcita",
+    "block.xycraft_world:aluminum_tiles_cloud_red": "Lajotas Vermelhas de Alumino-Calcita",
+    "block.xycraft_world:aluminum_tiles_cloud_green": "Lajotas Verdes de Alumino-Calcita",
+    "block.xycraft_world:aluminum_tiles_cloud_light": "Lajotas Claras de Alumino-Calcita",
+    "block.xycraft_world:aluminum_tiles_cloud_dark": "Lajotas Escuras de Alumino-Calcita"
 }

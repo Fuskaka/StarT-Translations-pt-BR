@@ -1,6 +1,6 @@
 {
-    "createdieselgenerators:biodiesel_bucket": "Crude Bio Diesel",
-    "createdieselgenerators:biodiesel": "Crude Bio Diesel",
-    "item.createdieselgenerators:biodiesel_bucket": "Crude Bio Diesel Bucket",
-    "fluid.createdieselgenerators:biodiesel": "Crude Bio Diesel"
+    "createdieselgenerators:biodiesel_bucket": "Biodiesel Bruto",
+    "createdieselgenerators:biodiesel": "Biodiesel Bruto",
+    "item.createdieselgenerators:biodiesel_bucket": "Balde de Biodiesel Bruto",
+    "fluid.createdieselgenerators:biodiesel": "Biodiesel Bruto"
 }
